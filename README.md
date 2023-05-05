@@ -2,7 +2,7 @@
 A Command Line Application using GoLang for fetching the Movie data through an API using the given input and printing it.
 
 ## Demo :
-![](MovieGenieDemo.JPG)
+![](MovieAPIDemo.JPG)
 
 ## API :
 OMDB API
