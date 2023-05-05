@@ -8,4 +8,4 @@ A Command Line Application using Go Lang for fetching the Movie data through an 
 Cobra - Library for creating command line applications
 
 ## API :
-OMDB API
+OMDB API - A RESTful API for Movie Information
