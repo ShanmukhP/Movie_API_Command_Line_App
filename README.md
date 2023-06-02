@@ -4,8 +4,8 @@ A Command Line Application using Go Lang for fetching the Movie data through an 
 ## Preview
 ![](MovieAPIDemo.JPG)
 
->## Library
->Cobra - Library for creating command line applications
+## Library
+Cobra - Library for creating command line applications
 
->## API
->OMDB API - A RESTful API for Movie Information
+## API
+OMDB API - A RESTful API for Movie Information
